@@ -233,6 +233,7 @@ main{
 .currency-table--date p{
     font-size: 1.2rem;
     line-height: 1.5rem;
+    font-size: 300;
     color: var(--warm-black);
 }
 
